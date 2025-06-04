@@ -1,4 +1,4 @@
-import { pool2 } from '../db.js'; // Ajusta la ruta según tu configuración
+import { pool } from '../db.js'; // Ajusta la ruta según tu configuración
 
 export const consultarConIA = async (req, res) => {
   try {
