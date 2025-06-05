@@ -12,8 +12,8 @@ export const pool = createPool({
 
 //export const pool2 = createPool({
 //host: DB_HOST2,
- // user: DB_USER2,
- // password: DB_PASSWORD2,
- // port: DB_PORT2,
+  //user: DB_USER2,
+  //password: DB_PASSWORD2,
+  //port: DB_PORT2,
   //database: DB_DATABASE2
 //});

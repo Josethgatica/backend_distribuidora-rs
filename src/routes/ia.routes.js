@@ -7,3 +7,6 @@ const router = Router();
 router.post('/consultarconia', consultarConIA);
 
 export default router;
+
+
+//

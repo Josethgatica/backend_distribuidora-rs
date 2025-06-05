@@ -13,6 +13,7 @@ import rutasEstadisticas from "./routes/estadisticas.routes.js";
 import DetallesCompra  from './routes/detalleCompra.js';
 import rutasIA from './routes/ia.routes.js';
 
+
 const app = express();
 
 // Configura CORS para permitir solicitudes desde un origen específico (recomendado)
